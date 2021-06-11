@@ -13,4 +13,4 @@ The game's difficulty increases as the player advances the levels.
 
 Controls:
 The player can move around using WASD keys.
-The player can attack and defend using the same key, and the function alternates. Different upgrades and power-ups will affect how attacking and defending works.
+The player can attack and defend using the same key, and the function alternates. Different upgrades and power-ups will affect how attacking and defending works. The player needs to work with this control and the play style revolves around this.
