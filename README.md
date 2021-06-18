@@ -15,6 +15,12 @@ Controls:
 The player can move around using WASD keys.
 The player can attack and defend using the same key, and the function alternates. Different upgrades and power-ups will affect how attacking and defending works. The player needs to work with this control and the play style revolves around this.
 
+The character, enemy, and background image:
+https://craftpix.net/freebies/free-wraith-tiny-style-2d-sprites/
+https://craftpix.net/freebies/free-elven-land-game-battle-backgrounds/
+
+
+
 import pygame
 from random import randrange
 
