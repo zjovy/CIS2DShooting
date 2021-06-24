@@ -1,7 +1,9 @@
 import game
+import Powerup
 
 # instead of blocking incoming projectiles with the shield
 # this power up allows the shield to reflect projectiles back into enemies
-def bounce_shield():
+class BounceShield (Powerup):
   
-  pass
+  def __init__ (self):
+    pass
