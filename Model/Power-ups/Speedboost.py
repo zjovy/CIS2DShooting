@@ -1,6 +1,5 @@
 import pygame
 import game
-import random
 
 # increase in speed
 def speed_boost ():
