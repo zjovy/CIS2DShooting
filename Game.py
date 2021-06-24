@@ -71,7 +71,7 @@ move_right = False
 move_down = False
 move_up = False
 
-# Game Looper
+# Game Loop
 running = True
 while running:
     # Testing For Events
