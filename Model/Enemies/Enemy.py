@@ -1,8 +1,9 @@
 class Enemy:
   
-  def __init__ (self, damage, score):
+  def __init__ (self, damage, range, score):
     self.health = 100
     self.damage = damage
+    self.range = range
     self.score = score
    
   def attack(self, opponent):
