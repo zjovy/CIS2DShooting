@@ -4,6 +4,7 @@ import Enemy
 class Swordsman (Enemy):
   
   def  __init__ (self, range):
-    Enemy.__init__(self, attack, score)
+    Enemy.__init__(self, damage, score)
     self.range = range
+    self.damage = 10
     self.score = 30
