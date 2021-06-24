@@ -1,4 +1,3 @@
-import pygame
 import game
 
 # change the attack into shooting a fireball
