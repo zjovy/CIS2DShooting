@@ -1,10 +1,10 @@
-import game
 import Powerup
 
 # increases player's walk speed
 class SpeedBoost(Powerup):
   
-  def __init__ (self, type):
+  def __init__ (self):
+    Powerup.__init__(self, type)
     self.type = "movement"
   
   def speed_boost ():
