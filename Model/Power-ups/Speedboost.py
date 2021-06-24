@@ -1,4 +1,3 @@
-import pygame
 import game
 
 # increase in speed
