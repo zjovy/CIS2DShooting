@@ -1,4 +1,3 @@
-import game
 import Powerup
 
 # replaces shield with a shield that can absorb incoming projectiles
