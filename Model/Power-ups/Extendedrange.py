@@ -8,5 +8,5 @@ class ExtendedRange(Powerup):
     
   # makes the attack range longer 
   # applies to all attacks
-  def extends_range():
+  def extends_range(self):
     pass
