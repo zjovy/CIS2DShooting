@@ -1,7 +1,7 @@
 import Powerup
 
 # replaces shield with a shield that can absorb incoming projectiles
-class Absorb_shield (Powerup):
+class AbsorbShield (Powerup):
   
   def __init__(self):
     Powerup.__init__(self, type)
