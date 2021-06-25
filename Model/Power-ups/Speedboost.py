@@ -1,4 +1,5 @@
 import Powerup
+import Player
 
 # increases player's walk speed
 class SpeedBoost(Powerup):
@@ -8,11 +9,4 @@ class SpeedBoost(Powerup):
     self.type = "movement"
   
   def speed_boost ():
-    if(move_right):
-          x += 4
-      if(move_left):
-          x -= 4
-      if(move_up):
-          y -= 4
-      if(move_down):
-          y += 4
+    Player.speed = 4
