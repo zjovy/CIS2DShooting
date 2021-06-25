@@ -8,5 +8,5 @@ class BounceShield (Powerup):
     self.type = "shield"
     
 # the reflected projectiles can do damage to enemies    
-  def reflect():
+  def reflect(self):
     pass
