@@ -8,5 +8,5 @@ class AbsorbShield (Powerup):
     self.type = "shield"
   
   # absorbing projectiles can heal the player
-  def absorb ():
+  def absorb (self):
     pass
