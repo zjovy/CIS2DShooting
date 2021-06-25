@@ -8,5 +8,5 @@ class Ninjastar(Powerup):
     self.type = "attack"
     
   # ninja star has fast projectile speed, which means that it travels faster  
-  def faster_projectile_speed():
+  def faster_projectile_speed(self):
     pass
