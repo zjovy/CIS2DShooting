@@ -8,5 +8,5 @@ class SpeedBoost(Powerup):
     Powerup.__init__(self, type)
     self.type = "movement"
   
-  def speed_boost ():
+  def speed_boost (self):
     Player.speed = 4
