@@ -8,5 +8,5 @@ class Fireball(Powerup):
     self.type = "attack"
     
   # deals continuous burning damage to enemies
-  def burning (enemy):
+  def burning (self, enemy):
     pass
